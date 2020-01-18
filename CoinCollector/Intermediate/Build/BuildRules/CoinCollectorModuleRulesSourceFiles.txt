@@ -1,0 +1,3 @@
+C:\Users\walid\Downloads\CoinCollectorStarter\CoinCollectorStarter\Source\CoinCollector\CoinCollector.Build.cs
+C:\Users\walid\Downloads\CoinCollectorStarter\CoinCollectorStarter\Source\CoinCollector.Target.cs
+C:\Users\walid\Downloads\CoinCollectorStarter\CoinCollectorStarter\Source\CoinCollectorEditor.Target.cs

@@ -1,0 +1,493 @@
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Basic_Wall.uasset" 0
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Architecture/Pillar_50x500.uasset" 1
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Architecture/Wall_400x300.uasset" 2
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Architecture/Wall_400x400.uasset" 3
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Architecture/Wall_500x500.uasset" 4
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 5
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 6
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Collapse01.uasset" 7
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Collapse02.uasset" 8
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Explosion01.uasset" 9
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Explosion02.uasset" 10
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Fire01.uasset" 11
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Fire_Sparks01.uasset" 12
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Light01.uasset" 13
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Light01_Cue.uasset" 14
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Light02.uasset" 15
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Light02_Cue.uasset" 16
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Smoke01.uasset" 17
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Starter_Birds01.uasset" 18
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Starter_Music01.uasset" 19
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Starter_Wind05.uasset" 20
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Starter_Wind06.uasset" 21
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Steam01.uasset" 22
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Explosion_Cue.uasset" 23
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Burst_M.uasset" 24
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/Materials/M_Burst.uasset" 25
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 26
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 27
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 28
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 29
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 30
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 31
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 32
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 33
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/P_Explosion.uasset" 34
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 35
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 36
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 37
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Bush_D.uasset" 38
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Bush_N.uasset" 39
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/Materials/M_Bush.uasset" 40
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_Bush.uasset" 41
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Chair_M.uasset" 42
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Chair_N.uasset" 43
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/Materials/M_Chair.uasset" 44
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_Couch.uasset" 45
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Glass.uasset" 46
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Door_M.uasset" 47
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Door_N.uasset" 48
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/Materials/M_Door.uasset" 49
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_Door.uasset" 50
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 51
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 52
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 53
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 54
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 55
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 56
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_RockMesh_M.uasset" 57
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_RockMesh_N.uasset" 58
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/Materials/M_Rock.uasset" 59
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_Rock.uasset" 60
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Shelf_M.uasset" 61
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Shelf_N.uasset" 62
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/Materials/M_Shelf.uasset" 63
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_Shelf.uasset" 64
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Basic_Floor.uasset" 65
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_Stairs.uasset" 66
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Cone.uasset" 67
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 68
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 69
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Pipe.uasset" 70
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 71
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 72
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Plane.uasset" 73
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Torus.uasset" 74
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Trim.uasset" 75
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 76
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 77
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 78
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Tube.uasset" 79
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 80
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 81
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 82
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 83
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 84
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 85
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 86
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Tank/Meshes/tank_fbx_Barrel.uasset" 87
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Tank/Meshes/tank_fbx_Track.uasset" 88
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Tank/Meshes/tank_fbx_Turret.uasset" 89
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Tank/Meshes/tank_fbx_Body.uasset" 90
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Tank/BP/Tank_BP.uasset" 91
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Tank/Tank_BP.uasset" 92
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 93
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 94
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 95
+"../../../Engine/Content/BasicShapes/Cone.uasset" 96
+"../../../Engine/Content/BasicShapes/Cube.uasset" 97
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 98
+"../../../Engine/Content/BasicShapes/Plane.uasset" 99
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 100
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 101
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 102
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 103
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 104
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 105
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 106
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 107
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 108
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 109
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 110
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 111
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 112
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 113
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 114
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 115
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 116
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 117
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 118
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 119
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 120
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 121
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 122
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 123
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 124
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 125
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 126
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 127
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 128
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 129
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 130
+"../../../Engine/Content/EditorResources/S_Note.uasset" 131
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 132
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 133
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 134
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 135
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 136
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 137
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 138
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 139
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 140
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 141
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 142
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 143
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 144
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 145
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 146
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 147
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 148
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 149
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 150
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 151
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 152
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 153
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 154
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 155
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 156
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 157
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 158
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 159
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 160
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 161
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 162
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 163
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 164
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 165
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 166
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 167
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 168
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 169
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 170
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 171
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 172
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 173
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 174
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 175
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 176
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 177
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 178
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 179
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 180
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 181
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 182
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 183
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 184
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 185
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 186
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 187
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 188
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 189
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 190
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 191
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 192
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 193
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 194
+"../../../Engine/Content/EngineResources/Black.uasset" 195
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 196
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 197
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 198
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 199
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 200
+"../../../Engine/Content/EngineSounds/Master.uasset" 201
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 202
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 203
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 204
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 205
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 206
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 207
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 208
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 209
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 210
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 211
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 212
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 213
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 214
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 215
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 216
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 217
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 218
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 219
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 220
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 221
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 222
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 223
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 224
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 225
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 226
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 227
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 228
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 229
+"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 230
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 231
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 232
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 233
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 234
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 235
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 236
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 237
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 238
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 239
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 240
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 241
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 242
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 243
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 244
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 245
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 246
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 247
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 249
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 250
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 251
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 252
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 253
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 254
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 255
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 256
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 257
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 258
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 259
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 260
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 261
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 262
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 263
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 264
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 265
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 266
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 267
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 268
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 269
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 270
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 271
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 272
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 273
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 274
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 275
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 276
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 277
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Blueprints/UI/PlayerUI_BP.uasset" 278
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Blueprints/TankPlayerController_BP.uasset" 279
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Blueprints/BattleTankGameMode_BP.uasset" 280
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/BattleGround_sharedassets/Dirt_LayerInfo.uasset" 281
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/BattleGround_sharedassets/Grass_LayerInfo.uasset" 282
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Levels/BattleGround_BuiltData.uasset" 283
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 284
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 285
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Landscape.uasset" 286
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Landscape_Inst.uasset" 287
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 288
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Levels/BattleGround.umap" 289
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Blueprints/UI/Fonts/Grunge_Tank.uasset" 290
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Blueprints/UI/Fonts/Grunge_Tank_Font.uasset" 291
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Blueprints/UI/Images/BT17-Firing-M1A1-tank-in-Djibouti.uasset" 292
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Blueprints/UI/MainMenuUI_BP.uasset" 293
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/Levels/MainMenu.umap" 294
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 295
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 296
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 297
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 298
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 299
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 300
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 301
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 302
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 303
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 304
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 305
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 306
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 307
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_AssetPlatform.uasset" 308
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 309
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 310
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 311
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 312
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 313
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 314
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 315
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 316
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Maps/Advanced_Lighting.umap" 317
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Fire01_Cue.uasset" 318
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 319
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 320
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 321
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Water_N.uasset" 322
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 323
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 324
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/P_Fire.uasset" 325
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 326
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Smoke01_Cue.uasset" 327
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/P_Smoke.uasset" 328
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 329
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 330
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Spark_Core.uasset" 331
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/Materials/M_Spark.uasset" 332
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/P_Sparks.uasset" 333
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 334
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Steam01_Cue.uasset" 335
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/P_Steam_Lit.uasset" 336
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 337
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Lamp_M.uasset" 338
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Lamp_N.uasset" 339
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/Materials/M_Lamp.uasset" 340
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 341
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 342
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 343
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 344
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 345
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 346
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 347
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 348
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 349
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 350
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_MacroVariation.uasset" 351
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 352
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 353
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 354
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 355
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 356
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 357
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 358
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 359
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 360
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 361
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 362
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 363
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 364
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 365
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 366
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 367
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 368
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 369
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 370
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 371
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 372
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 373
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 374
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 375
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 376
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 377
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Gradinet_01.uasset" 378
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 379
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 380
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 381
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 382
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 383
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 384
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 385
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 386
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 387
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 388
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 389
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 390
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 391
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 392
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 393
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 394
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 395
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 396
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 397
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 398
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 399
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Ground_Grass.uasset" 400
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 401
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 402
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 403
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 404
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Ground_Moss.uasset" 405
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 406
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 407
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 408
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 409
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 410
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 411
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Metal_Copper.uasset" 412
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 413
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Metal_Gold.uasset" 414
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 415
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Metal_Rust.uasset" 416
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 417
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 418
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Metal_Steel.uasset" 419
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 420
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 421
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 422
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 423
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 424
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 425
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 426
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 427
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Rock_Slate.uasset" 428
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 429
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 430
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 431
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 432
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 433
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 434
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 435
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 436
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 437
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 438
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 439
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Tech_Panel.uasset" 440
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Water_Lake.uasset" 441
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Water_M.uasset" 442
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Water_Ocean.uasset" 443
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 444
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 445
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 446
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 447
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 448
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 449
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 450
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 451
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Wood_Oak.uasset" 452
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 453
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 454
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Wood_Pine.uasset" 455
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 456
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 457
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 458
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Architecture/Floor_400x400.uasset" 459
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Architecture/Wall_400x200.uasset" 460
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 461
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 462
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Collapse_Cue.uasset" 463
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 464
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 465
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 466
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 467
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 468
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/MaterialSphere.uasset" 469
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_Chair.uasset" 470
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Frame_M.uasset" 471
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Frame_N.uasset" 472
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/Materials/M_Frame.uasset" 473
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_CornerFrame.uasset" 474
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_DoorFrame.uasset" 475
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_GlassWindow.uasset" 476
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_PillarFrame.uasset" 477
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_PillarFrame300.uasset" 478
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Statue_M.uasset" 479
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_Statue_N.uasset" 480
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/Materials/M_Statue.uasset" 481
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 482
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_Statue.uasset" 483
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_TableRound_M.uasset" 484
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Textures/T_TableRound_N.uasset" 485
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/Materials/M_TableRound.uasset" 486
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_TableRound.uasset" 487
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Props/SM_WindowFrame.uasset" 488
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Cube.uasset" 489
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 490
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Shapes/Shape_Sphere.uasset" 491
+"../../../../../Users/walid/Desktop/Learning C++ Tests/UnrealCourse/Section_3/BattleTank/Content/StarterContent/Maps/StarterMap.umap" 492

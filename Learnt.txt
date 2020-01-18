@@ -1,0 +1,31 @@
+1) int GetMaxTries() const; const here means no changes will be made to this entire object
+SO WE CAN'T USE THIS:
+int FBullCowGame::GetMaxTries() const {
+
+	MyMaxTries = 12;// we can't change the value anymore!!
+	return MyMaxTries;
+
+}
+
+2) // TODO summarize game, now go to View->Task List to view your TodoList
+	we can view other tokens as well in the options menu such as UNDONE or HACK
+
+3) static getters https://youtu.be/MR37gqFEmFA
+
+4) enum class (to fix gloval variable problem)
+
+5)Difference between // & /// in comments
+
+6)Complex collision
+
+7)Protect Pointer by initializing it to nullptr + if(!Pointer){return;}
+
+8)Widget to focus on = (we can use the button here instead of the entire widget)
+
+9)Forward declartions (we can use it in the .h file for example, & when methods are needed then use the include in the .cpp file)
+
+10)UPROPERTY
+
+11)HideCategories
+
+12)UClass vs TSubclassOf

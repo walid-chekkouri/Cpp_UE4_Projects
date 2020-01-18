@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\CoinCollector.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{CE7D2355-CE17-485E-A861-3B321BFA20BC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\CoinCollector.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\CoinCollectorEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{49C89BBA-CA86-41C7-9279-66E97F0541A0}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\CoinCollector">
+			<UniqueIdentifier>{8C673FF2-5162-4991-93AC-EBA9F6D53E68}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\CoinCollector\BaseCoin.cpp">
+			<Filter>Source\CoinCollector</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CoinCollector\BaseCoin.h">
+			<Filter>Source\CoinCollector</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\CoinCollector\CoinCollector.Build.cs">
+			<Filter>Source\CoinCollector</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\CoinCollector\CoinCollector.cpp">
+			<Filter>Source\CoinCollector</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CoinCollector\CoinCollector.h">
+			<Filter>Source\CoinCollector</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

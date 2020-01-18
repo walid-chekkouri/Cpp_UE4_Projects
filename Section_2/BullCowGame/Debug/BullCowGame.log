@@ -1,0 +1,17 @@
+﻿  FBullCowGame.cpp
+  main.cpp
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(184,17): warning C4129:  '_': unrecognized character escape sequence
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(186,17): warning C4129:  '_': unrecognized character escape sequence
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(188,17): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(188,17): warning C4129:  '_': unrecognized character escape sequence
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(190,17): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(192,17): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(194,17): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(198,17): warning C4129:  '_': unrecognized character escape sequence
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(204,17): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(204,17): warning C4129:  '/': unrecognized character escape sequence
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(206,17): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(206,17): warning C4129:  '_': unrecognized character escape sequence
+  Generating Code...
+C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\BullCowGame\main.cpp(208,17): warning C4129:  '_': unrecognized character escape sequence
+  BullCowGame.vcxproj -> C:\Users\walid\Desktop\Learning C++ Tests\UnrealCourse\Section_2\Debug\BullCowGame.exe

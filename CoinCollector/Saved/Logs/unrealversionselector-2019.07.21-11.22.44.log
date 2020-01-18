@@ -1,0 +1,15 @@
+Discovering modules, targets and source code for project...
+@progress 'Binding IntelliSense data...' 0%
+==============================================================================
+ERROR: Could not find definition for module 'SimplyUE4' (referenced via UE4Editor.Target.cs -> SimplygonUE4.uplugin)
+
+BuildException: Could not find definition for module 'SimplyUE4' (referenced via UE4Editor.Target.cs -> SimplygonUE4.uplugin)
+   à UnrealBuildTool.RulesAssembly.CreateModuleRules(String ModuleName, ReadOnlyTargetRules Target, String ReferenceChain, FileReference& ModuleFileName)
+   à UnrealBuildTool.UEBuildTarget.CreateModuleRulesAndSetDefaults(String ModuleName, String ReferenceChain, FileReference& ModuleFileName)
+   à UnrealBuildTool.UEBuildTarget.FindOrCreateModuleByName(String ModuleName, String ReferenceChain)
+   à UnrealBuildTool.UEBuildTarget.AddPlugin(PluginReferenceDescriptor Reference, String ReferenceChain, FileSystemName[] ExcludeFolders, Dictionary`2 NameToInstance, Dictionary`2 NameToInfo)
+   à UnrealBuildTool.UEBuildTarget.SetupPlugins()
+   à UnrealBuildTool.UEBuildTarget.PreBuildSetup(UEToolChain TargetToolChain, CppCompileEnvironment GlobalCompileEnvironment, LinkEnvironment GlobalLinkEnvironment)
+   à UnrealBuildTool.UEBuildTarget.Build(BuildConfiguration BuildConfiguration, CPPHeaders Headers, List`1 OutputItems, List`1 UObjectModules, ISourceFileWorkingSet WorkingSet, ActionGraph ActionGraph, EHotReload HotReload)
+   à UnrealBuildTool.UnrealBuildTool.RunUBT(BuildConfiguration BuildConfiguration, String[] Arguments, FileReference ProjectFile)
+==============================================================================
